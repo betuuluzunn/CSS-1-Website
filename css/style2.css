@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    background-color: antiquewhite;
+}
+#main-title {
+    color: coral;
+    text-align: center;
+    font-size: 40px;
+    }
+    .article-two{
+        text-align: center;
+    font-size: 17px;
+    color: #555;
+    }
